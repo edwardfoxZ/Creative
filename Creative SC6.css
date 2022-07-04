@@ -1,0 +1,125 @@
+#screen-6th{
+    width: 100%;
+    height: 95%;
+    background-color: white;
+}
+.cs6th-text{
+    color: black;
+    position: absolute;
+    top: 408%;
+    right: 42%;
+    font-size: xx-large;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hr4{
+    width: 3rem;
+    height: .6%;
+    background-color: orangered;
+    border-color: orangered;
+    margin-left: 46%;
+    margin-top: 14%;
+    opacity: 1;
+}
+.title6th{
+    width: 40%;
+    text-align: center;
+    margin-left: 28%;
+    margin-top: 2%;
+    font-size: larger;
+    font-weight: 500;
+    color: #535353b9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form-control{
+    width: 55%;
+    height: 25%;
+    border:solid 1px;
+    border-color: #535353b9;
+    border-radius: 5px;
+    padding-left: 2%;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.col{
+    height: 40%;
+    margin-left: 29%;
+    margin-top: 6%;
+}
+.col-s{
+    width: 70%;
+    height: 40%;
+    position: absolute;
+    top: 458%;
+    right: 1%;
+}
+.col-t{
+    width: 70%;
+    height: 40%;
+    position: absolute;
+    top: 475%;
+    right: 1%;
+}
+.col-fourth{
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    top: 488%;
+    right: 1%;
+    display: flex;
+}
+.Massage{
+    width: 55%;
+    height: 25%;
+    border:solid 1px;
+    border-color: #535353b9;
+    border-radius: 5px;
+    padding-bottom: 13%;
+    padding-left: 2%;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+.btn:disabled{
+    background-color: #ff5d31;
+    border-color: #ff5d31;
+}
+.buttonSUB{
+    width: 39%;
+    height: 9%;
+    position: absolute;
+    top: 517%;
+    right: 32%;
+    color: white;
+    background-color: #ff5d31;
+    border:solid 2px;
+    border-radius: 50px;
+    border-color: #ff5d31;
+}
+.fa-mobile-screen-button{
+    margin-left: 47.6%;
+    padding-top: 8%;
+    font-size: 270%;
+}
+.number{
+    margin-left: 43%;
+    padding-top: 1%;
+    font-family: sans-serif;
+}
+.footer{
+    width: 100%;
+    height: 15%;
+    background-color: #e8f8f8;
+    margin-top: 15%;
+}
+.footerT{
+    padding-left: 40%;
+    padding-top: 2%;
+    font-size: large;
+    font-weight: 380;
+    color: #999999b9;
+    font-family: 'Times New Roman', Times, serif;
+}

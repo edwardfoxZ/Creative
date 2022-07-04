@@ -1,0 +1,26 @@
+#screen-5th{
+    width: 100%;
+    height: 45%;
+    background-color: #202020;
+}
+.sc5th-text{
+    color: white;
+    position: absolute;
+    top: 348%;
+    right: 35%;
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button-3rd{
+    width: 15%;
+    height: 9%;
+    position: absolute;
+    top: 357%;
+    right: 45%;
+    color: black;
+    background-color: white;
+    border:solid 2px;
+    border-radius: 50px;
+    border-color: white;
+}

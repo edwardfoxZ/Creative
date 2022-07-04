@@ -1,0 +1,113 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav{
+    width: 100%;
+    height: 10%;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+}
+.a{
+    margin: 2%;
+    position: absolute;
+    top: 2%;
+    right: 75%;
+    font-size: x-large;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+.b{
+    position:  absolute;
+    top: 2%;
+    right: 32%;
+    top: 35%;
+    font-size: large;
+    font-weight: 300;
+    color: #000000a1;
+    text-decoration: none;
+}
+.c{
+    position:  absolute;
+    top: 35%;
+    right: 25%;
+    font-size: large;
+    font-weight: 300;
+    color: #000000a1;
+    text-decoration: none;
+}
+.d{
+    position:  absolute;
+    top: 35%;
+    right: 17%;
+    font-size: large;
+    font-weight: 300;
+    color: #000000a1;
+    text-decoration: none;
+}
+.e{
+    position:  absolute;
+    top: 35%;
+    right: 10%;
+    font-size: large;
+    font-weight: 300;
+    color: #000000a1;
+    text-decoration: none;
+}
+#screen{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("bg-masthead.jpg");
+    background-size: cover;
+}
+.p{
+    width: 45%;
+    color: white;
+    position: absolute;
+    top: 42%;
+    right: 25%;
+    font-size: 350%;
+    font-weight: 600 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hr{
+    width: 5rem;
+    height: 1%;
+    position: absolute;
+    top: 65%;
+    right: 48%;
+    background-color: #ff5d31;
+    border-color: #ff5d31;
+    opacity: 1;
+}
+.p2{
+    width: 60%;
+    position: absolute;
+    top: 70%;
+    right: 15%;
+    color: rgba(255, 255, 255, 0.507);
+    font-size: 150%;
+    font-weight: 400 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn-warning{
+    width: 12%;
+    height: 9%;
+    position: absolute;
+    top: 88%;
+    right: 45%;
+    color: white;
+    background-color: #ff5d31;
+    border:solid 2px;
+    border-radius: 50px;
+    border-color: #ff5d31;
+}
